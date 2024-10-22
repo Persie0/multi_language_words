@@ -1,6 +1,18 @@
 # Multi-Language Word Generator
 
 A Dart package for generating random words in multiple languages. This package provides a simple way to generate unique random words from predefined word lists in various languages. Based on the word lists from [bip39_multi_language](https://github.com/bhoomit74/bip39_multi_language).
+## Supported Languages
+
+- English
+- French
+- Italian
+- Spanish
+- Japanese
+- Korean
+- Portuguese
+- Czech
+- Chinese (Traditional)
+- Chinese (Simplified)
 
 ## Features
 
